@@ -1,13 +1,13 @@
 # Mo_Raheem_SQL_Server_Security_Assessment
 Mo_Raheem_SQL_Server_Security_Assessment
 
-HOW TO USE: 
+HOW TO USE:
 	- User running must be [securityadmin] or higher.
 	- Set parameters in the "Parameters to be set by user" section.
 	- Run on the instance in question.
 	- Copy the dynamically created query from the 'Results' pane (sans "Completion time..." message) and run in a new query window.
 
-NOTES: 
+NOTES:
 	- Messages pane will display dynamically created query which you will need to run in a new Query Window.
 	- An additional check for uncommon securables is run at the end - it usually shows up as blank.
 		- Submit a feature request if you want a class added to the script.
